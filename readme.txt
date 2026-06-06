@@ -4,11 +4,11 @@ Herramienta para modelar redes sinápticas neuronales mediante grafos dirigidos,
 permitiendo detectar zonas aisladas y calcular rutas óptimas de transmisión de señales.
 
 Integrantes del grupo:
-- Andres Castillo
-- Jose Quintero
+- Andres Castillo C.I. 32.629.303
+- Jose Quintero C.I. 32.124.905
 
 
-Repositorio GitHub: 
+Repositorio GitHub :https://github.com/andres-castillo-debug/PROYECTO-SynapseLogic
 
 Instrucciones de uso:
 1. Abrir el proyecto en NetBeans (File → Open Project)

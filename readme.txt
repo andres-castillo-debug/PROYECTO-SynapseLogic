@@ -4,16 +4,16 @@ Herramienta para modelar redes sinápticas neuronales mediante grafos dirigidos,
 permitiendo detectar zonas aisladas y calcular rutas óptimas de transmisión de señales.
 
 Integrantes del grupo:
-- [Nombre Integrante 1]
-- [Nombre Integrante 2]
-- [Nombre Integrante 3]
+- Andres Castillo C.I. 32.629.303
+- Jose Quintero C.I. 32.124.905
 
-Repositorio GitHub: https://github.com/[usuario]/SynapseLogic
+
+Repositorio GitHub :https://github.com/andres-castillo-debug/PROYECTO-SynapseLogic
 
 Instrucciones de uso:
 1. Abrir el proyecto en NetBeans (File → Open Project)
 2. Ejecutar con F6
-3. Usar "⚡ Ejemplo" para cargar la red de prueba del enunciado
+3. Usar "Ejemplo" para cargar la red de prueba del enunciado
 4. Los archivos CSV de prueba están en la carpeta /data/
 
 Estructuras implementadas desde cero (sin librerías):
@@ -21,4 +21,4 @@ Estructuras implementadas desde cero (sin librerías):
 - Hash Table con encadenamiento para neurotransmisores
 - BFS, DFS y Dijkstra
 
-Universidad Metropolitana - BPTSP06 - Trimestre 2526-3
+Universidad Metropolitana - BPTSP06

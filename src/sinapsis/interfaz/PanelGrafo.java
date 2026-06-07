@@ -17,7 +17,7 @@ import java.util.List;
  * Panel de visualización interactiva del grafo sináptico.
  * Renderiza neuronas como nodos y sinapsis como aristas dirigidas.
  *
- * <p>Características:
+ * Características:
  * <ul>
  *   <li>Nodos arrastrables por el usuario (distribución manual)</li>
  *   <li>Aristas con flechas indicando dirección del impulso</li>
@@ -25,7 +25,7 @@ import java.util.List;
  *   <li>Resaltado de zonas aisladas en rojo</li>
  *   <li>Etiquetas con distancia, NT y factor k</li>
  * </ul>
- * </p>
+ * 
  *
  * @author SynapseLogic Team
  * @version 1.0

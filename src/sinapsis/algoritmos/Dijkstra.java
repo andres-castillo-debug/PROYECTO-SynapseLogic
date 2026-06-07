@@ -11,13 +11,13 @@ import java.util.*;
  * Implementación del algoritmo de Dijkstra para calcular la ruta de
  * mayor activación (señal más rápida) entre dos neuronas.
  *
- * <p>El peso de cada arista se calcula como W = d / (v * k), donde:
+ El peso de cada arista se calcula como W = d / (v * k), donde:
  * <ul>
  *   <li>d = distancia sináptica</li>
  *   <li>v = velocidad del neurotransmisor (obtenida de la Hash Table)</li>
  *   <li>k = factor de eficiencia sináptica de la sinapsis</li>
  * </ul>
- * </p>
+ * 
  *
  * @author SynapseLogic Team
  * @version 1.0

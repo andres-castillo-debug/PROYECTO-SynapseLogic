@@ -85,7 +85,7 @@ public class GrafoDirigido {
 
         // Eliminar sinapsis salientes
         listaAdyacencia.remove(id);
-        todasSinapsis.removeIf(s -> s.getIdOrigen().equals(id));
+        boolean removeIf = todasSinapsis.removeIf(s -> s.getIdOrigen().equals(id));
 
         // Eliminar sinapsis entrantes desde otras neuronas
         String idFinal = id;

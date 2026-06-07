@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"sinapsis.algoritmos"},{"l":"sinapsis.estructura"},{"l":"sinapsis.interfaz"},{"l":"sinapsis.modelo"}];updateSearchResults();
